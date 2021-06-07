@@ -50,6 +50,7 @@ function setup() {
   luna.scale=0.04;
   //ground
   ground = createSprite(width,180,width,20);
+  //comentario para probar el cambio
   ground.addImage(groundImage);
   groundInvisible = createSprite(200,193,400,10);
   groundInvisible.visible = false;
