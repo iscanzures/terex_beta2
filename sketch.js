@@ -252,4 +252,3 @@ function night(){
       luna.velocityX=0;
       luna.velocityY=0;
        }
-}
